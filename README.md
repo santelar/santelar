@@ -14,4 +14,4 @@
 
 
 ## :fist: Статистика:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPonomarenko&show_icons=true)](https://github.com/santelar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPonomarenko&layout=compact)](https://github.com/santelar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santelar&show_icons=true)](https://github.com/santelar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santelar&layout=compact)](https://github.com/santelar/github-readme-stats)
